@@ -120,7 +120,7 @@ Array improvement = +3.28 dB over single patch
 ## Author
 
 **Anup Singh**  
-B.Tech ECE, University of Jammu (CU Jammu)  
+B.Tech ECE, Central University of Jammu.  
 April 2026
 
 ---
