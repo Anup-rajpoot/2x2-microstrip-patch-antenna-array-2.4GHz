@@ -20,8 +20,8 @@ Four identical rectangular patch elements are arranged in a 2-row × 2-column gr
 |---|---|---|
 | Operating Frequency | 2.4 GHz | ✅ |
 | S11 at Resonance | −24.5 dB | ✅ Excellent |
-| S11 at 2.4 GHz Marker | −17.95 dB | ✅ Good |
-| VSWR at 2.4 GHz | 1.29 | ✅ Excellent |
+| S11 at 2.4 GHz Marker | −18.95 dB | ✅ Good |
+| VSWR at 2.4 GHz | 1.25 | ✅ Excellent |
 | Bandwidth (−10 dB) | 90 MHz | ✅ |
 | % Bandwidth | 3.75% | ✅ |
 | WiFi Band Coverage | 2.355–2.445 GHz | ✅ Full Coverage |
@@ -113,7 +113,7 @@ Array improvement = +3.28 dB over single patch
 ## Documents
 
 - 📄 [Full HTML Report](docs/antenna_report.html)
-- 📊 [LinkedIn Carousel PDF](docs/carousel_final_v4.pdf)
+- 📊 [Report PDF](docs/Array_Antenna.pdf)
 
 ---
 
