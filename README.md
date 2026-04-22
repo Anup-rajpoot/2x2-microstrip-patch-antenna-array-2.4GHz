@@ -54,27 +54,27 @@ Four identical rectangular patch elements are arranged in a 2-row × 2-column gr
 
 ## CST Simulation Model
 
-![CST Model](images/cst_simulation_model.jpg)
+![CST Model](images/cst_simulation_model.png)
 
 ---
 
 ## Simulation Results
 
 ### S11 Return Loss
-![S11](results/s11_return_loss.jpg)
+![S11](results/s11_return_loss.png)
 
 ### VSWR
-![VSWR](results/vswr_plot.jpg)
+![VSWR](results/vswr_plot.png)
 
 ### Smith Chart
-![Smith Chart](results/smith_chart.jpg)
+![Smith Chart](results/smith_chart.png)
 
 ### 3D Radiation Pattern
-![Broadside](results/radiation_pattern_broadside.jpg)
-![Elevation](results/radiation_pattern_elevation.jpg)
+![Broadside](results/radiation_pattern_broadside.png)
+![Elevation](results/radiation_pattern_elevation.png)
 
 ### Farfield Summary
-![Farfield](results/farfield_summary.jpg)
+![Farfield](results/farfield_summary.png)
 
 ---
 
